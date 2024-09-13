@@ -31,6 +31,29 @@ how to test your api?
 	---->POSTMAN 
 	---->swagger doc 
 
+-----------------------------------------------------------------------
+
+
+____________ annotation we used to create rest api controller ? 
+@RestController 
+
+
+if we read information from user _________ annotation we need to use in argument ? 
+@RequestBody 
+
+
+update api ? http method  ?
+put
+
+remove api?
+delete 
+
+
+@Postmapping("/products")
+
+no frontend -> input ? ?
+rest client -> Postman 
+-------------------------------------------------------
 
 	
  
