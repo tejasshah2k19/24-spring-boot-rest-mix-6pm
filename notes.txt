@@ -54,8 +54,35 @@ delete
 no frontend -> input ? ?
 rest client -> Postman 
 -------------------------------------------------------
-
+ REST 
 	
+ input format -> json 
+ response -> json 
+ 
+ 
+ 
+ @RestController -> user data json -> 
+ 	controller -> annotation ? json -> 
+ 	
+ 	product -> insert -> api -> name price qty 
+ 						@RequestBody  ProductBean productBean 
+ 						 ProductEntity productEntity 
+ 
+ http mapping -> product insert api -> 
+ @Postmapping -> insert 
+ 
+ existing modify -> update -> 
+ put 
+ 
+ read -> 
+ Get 
+ 
+ remove -> 
+ Delete 
+ 
+-------------------------------------------------------
+ 
+ 
  
  
  
